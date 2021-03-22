@@ -1,0 +1,14 @@
+{
+  "name": "curso_cypress_basico_walmir_filho",
+  "version": "1.0.0",
+  "description": "Curso de Cypress da Escola TAT",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Walmir Filho",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^6.8.0"
+  }
+}
